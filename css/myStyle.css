@@ -1,0 +1,23 @@
+h1{
+    color: #29A2D7;
+}
+
+p{
+    color: #29A2D7;
+}
+
+.computation-results {
+    display: none;
+}
+
+.fileInput {
+    color: gray;
+}
+
+.panel-body {
+    word-wrap: break-word;
+    max-height: 300px;
+    max-width: 500px;
+    overflow-x: hidden;
+    overflow-y: scroll;
+}
